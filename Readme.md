@@ -141,10 +141,7 @@ It is especially useful when the dataset is imbalanced.
 
 ## 🧪 Example Prediction
 
-Enter a review:  This product is good
-The review: This product is good is predicted postive
+### Enter a review:  The product good
 
-
-Enter a review:  This is the worst product ever
-The review: This is the worst product ever  is predicted negative  
+### The review: 'The product good' is predicted Postive Review
 ---
